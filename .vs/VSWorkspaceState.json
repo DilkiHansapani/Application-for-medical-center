@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\MedicalCenter",
+    "\\MedicalCenter\\Model",
+    "\\MedicalCenter\\ModelView"
+  ],
+  "SelectedNode": "\\MedicalCenter\\Model\\Connection.cs",
+  "PreviewInSolutionExplorer": false
+}
